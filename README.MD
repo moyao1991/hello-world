@@ -7,4 +7,4 @@
 3.  [CPO/光模块](tech/CPO.md)
 4.  [存储](tech/存储.md)
 5.  [AI相关问题](tech/AI问题点.md)
-
+6. [储能](energy/battery.md)
